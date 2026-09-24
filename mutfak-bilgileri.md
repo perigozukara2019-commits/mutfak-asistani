@@ -27,3 +27,8 @@
 
 ## Zaman
 - Genelde 1 saat vaktim olur. Daha uzun süren bir tarif önerirsen süresini başta belirt.
+## Evde hep olanlar
+Bunları tariflerde kullanabilirsin, eksik malzeme sayılmaz.
+- Yağlar: zeytinyağı, tereyağı, ayçiçek yağı
+- Baharatlar: tuz, karabiber, pul biber, kimyon, nane, kekik, zencefil, zerdeçal
+- Diğer: salça, limon, sirke
